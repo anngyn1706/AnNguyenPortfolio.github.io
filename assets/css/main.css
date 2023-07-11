@@ -3914,11 +3914,11 @@ input, select, textarea {
 				}
 
 				#main > .posts > article:nth-child(n) {
-					border-left-width: 0;
+					border-left-width: 2px;
 				}
 
 				#main > .posts > article:nth-child(-n + 1) {
-					border-top-width: 0;
+					border-top-width: 2px;
 				}
 
 				#main > .posts > article .image {
